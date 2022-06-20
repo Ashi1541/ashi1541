@@ -17,4 +17,5 @@ Running the project
 
 Project Developer
 ----------------
-Sajal Agrawal
+Ashi Bhagoria
+
